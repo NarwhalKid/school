@@ -7,6 +7,7 @@
    - [getting steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [using steam after download](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
  - [websites](https://github.com/NarwhalKid/school/blob/main/README.md#websites)
+ - [bookmarklets](https://github.com/NarwhalKid/school/blob/main/README.md#bookmarklets)
 
 ## software lists
 - [bradnails](https://github.com/Project-Bradnails/Bradnails/tree/main)
