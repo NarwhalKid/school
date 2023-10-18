@@ -28,7 +28,7 @@
    - [noadmin.bat](https://drive.google.com/file/d/1WAmmjmAF-gHeVggQKARxvg-lPbWAknOc/view?usp=share_link)
  - find somewhere in the school where you have data (a vpn on school wifi won't work unfortunately) and start a hotspot on your phone and connect to it on your computer (or just do this at home)
  - open wherever you downloaded those files and drag the SteamSetup.exe file onto the noadmin.bat file
- - when it asks for the destination folder, make it "C:\Makeup Work\" or something
+ - when it asks for the destination folder, make it `C:\Makeup Work\` or something
  - on the "steam error", click ignore
  - on the "steam service error", click cancel
  - it will take a decent while to open. just be patient
@@ -69,8 +69,8 @@
   - press ctrl+shift+b if your bookmarks bar is not currently visible
   - highlight the text and drag it to your bookmarks bar to add it as a bookmark. click the bookmark to activate the bookmarklet
   - phone controller
-    - javascript:{var s=document.createElement('script');s.id="ctrljs-js";if(!!!document.getElementById("ctrljs-js")){s.src='https://ctrljs-1.narwhalkid.repl.co/bookmarklet.js',document.body.appendChild(s);}else{document.getElementById("statusView").style.display = document.getElementById("statusView").style.display == "none" ? "" : "none"}};void(0);
+    - `javascript:{var s=document.createElement('script');s.id="ctrljs-js";if(!!!document.getElementById("ctrljs-js")){s.src='https://ctrljs-1.narwhalkid.repl.co/bookmarklet.js',document.body.appendChild(s);}else{document.getElementById("statusView").style.display = document.getElementById("statusView").style.display == "none" ? "" : "none"}};void(0);`
     - click to get a QR code to scan with your phone, click again to toggle the QR code on screen (will not work correctly on some sites or parts of sites)
   - firefox only libreddit changer
-    - javascript:document.location = (document.location + '').replace('www.reddit.com', 'reddit.invak.id')
+    - `javascript:document.location = (document.location + '').replace('www.reddit.com', 'reddit.invak.id')`
     - click the bookmarklet when you go to a reddit.com page and it doesnt work (feel free to change the libreddit instance url (reddit.invak.id to something else)
