@@ -1,5 +1,10 @@
 # heres a huge ass list of things to do at school
 
+## sections
+ - [game lists](https://github.com/NarwhalKid/school/blob/main/README.md#game-lists)
+ - [steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam)
+ - 
+
 ## game lists
 - [bradnails](https://github.com/Project-Bradnails/Bradnails/tree/main)
 - [not games](https://drive.google.com/drive/folders/1Fa0E3128_Fq0UTCtHmctLFYdK7BNsH0O)
