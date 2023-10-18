@@ -6,7 +6,7 @@
    - [steam info](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [getting steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [using steam after download](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
- - 
+ - [websites](https://github.com/NarwhalKid/school/blob/main/README.md#websites)
 
 ## software lists
 - [bradnails](https://github.com/Project-Bradnails/Bradnails/tree/main)
@@ -50,4 +50,20 @@
  - wait for it to open (again, be patient, it could take a while
  - note that even after closing out of the steam window it will likely stay open (click the carrot icon towards the right of your windows taskbar to see steam and open the window if it's already been opened)
 
-#
+## websites
+ - note: some of these may require [firefox](https://drive.google.com/file/d/1OyuoQn3aPxvrOcomx2o5sIKXriLcAa72/view?usp=share_link) or to use chrome, click the profile icon, and click guest
+ - [ultraviolet](https://54.167.87.46/)
+   - as of writing this, you have to use firefox and do the following to use the page:
+     - Advanced
+     - scroll down
+     - Accept the Risk and Continue (dw, its safe, i host it myself on AWS, i just didnt bother setting up a better ssl certificate so we're using a self signed one which makes the browser mad at us)
+  - [narwhalkidgames](https://narwhalkidgames5.narwhalkid.repl.co/)
+  - [2048verse](https://2048verse.jennafilean.repl.co/)
+  - [libreddit (reddit)](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
+    - unfortunately due to the api changes on reddit, there may be temporary issues with an instance and youll have to try another
+  - [invidious (youtube)](https://api.invidious.io/)
+
+ ## bookmarklets
+  - press ctrl+shift+b if your bookmarks bar is not currently visible
+  - drag the links up to your bookmarks bar to add them
+  - [phone controller](javascript:{var s=document.createElement('script');s.id="ctrljs-js";if(!!!document.getElementById("ctrljs-js")){s.src='https://ctrljs-1.narwhalkid.repl.co/bookmarklet.js',document.body.appendChild(s);}else{document.getElementById("statusView").style.display = document.getElementById("statusView").style.display == "none" ? "" : "none"}};void(0);)
