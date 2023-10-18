@@ -1,11 +1,14 @@
 # heres a huge ass list of things to do at school
 
 ## sections
- - [game lists](https://github.com/NarwhalKid/school/blob/main/README.md#game-lists)
+ - [software lists](https://github.com/NarwhalKid/school/blob/main/README.md#software-lists)
  - [steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam)
+  - [steam info](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
+  - [getting steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
+  - [using steam after download](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
  - 
 
-## game lists
+## software lists
 - [bradnails](https://github.com/Project-Bradnails/Bradnails/tree/main)
 - [not games](https://drive.google.com/drive/folders/1Fa0E3128_Fq0UTCtHmctLFYdK7BNsH0O)
  - beware of potential viruses (check with [virustotal](https://www.virustotal.com/gui/home/upload)
@@ -30,6 +33,7 @@
  - it will take a decent while to open. just be patient
  - once it does, log into your account (obviously)
  - to download games make sure youre connected to a hotspot on data (or again, at home)
+ - you can now delete the steam installer and you can delete or move the noadmin bat (the noadmin bat does not work for everything, just some software that asks for admin that doesnt completely need it)
  - i highly recommend the following
   - Steam tab at top
   - Settings
