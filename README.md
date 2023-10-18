@@ -1,3 +1,4 @@
+<!-- ayo why you readin the md file -->
 # heres a huge ass list of things to do at school
 
 ## sections
@@ -74,3 +75,11 @@
   - firefox only libreddit changer
     - `javascript:document.location = (document.location + '').replace('www.reddit.com', 'reddit.invak.id')`
     - click the bookmarklet when you go to a reddit.com page and it doesnt work (feel free to change the libreddit instance url (reddit.invak.id to something else)
+   
+  ## staying quiet
+   - you could bring in a usb to keep the files on (or just a straight up bootable OS)
+   - keeping files in `C:\Makeup Work\` or something of the sort can help prevent files from being found from the taskbar windows search (of course if this ever leaks to the administrators then they could probably find it there so you may want to keep it somewhere else just because i said that but if you really dont care then that should be good enough)
+   - keep apps unpinned from your taskbar
+   - be ready to alt+tab away if you have to
+   - if youre using steam, turn on the settings i mentioned at the end
+   - basically just dont be stupid
