@@ -62,8 +62,14 @@
   - [libreddit (reddit)](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
     - unfortunately due to the api changes on reddit, there may be temporary issues with an instance and youll have to try another
   - [invidious (youtube)](https://api.invidious.io/)
+  - [wikipedia speedruns](https://wikispeedruns.com/)
 
  ## bookmarklets
   - press ctrl+shift+b if your bookmarks bar is not currently visible
-  - drag the links up to your bookmarks bar to add them
-  - [phone controller](javascript:{var s=document.createElement('script');s.id="ctrljs-js";if(!!!document.getElementById("ctrljs-js")){s.src='https://ctrljs-1.narwhalkid.repl.co/bookmarklet.js',document.body.appendChild(s);}else{document.getElementById("statusView").style.display = document.getElementById("statusView").style.display == "none" ? "" : "none"}};void(0);)
+  - highlight the text and drag it to your bookmarks bar to add it as a bookmark. click the bookmark to activate the bookmarklet
+  - phone controller
+    - javascript:{var s=document.createElement('script');s.id="ctrljs-js";if(!!!document.getElementById("ctrljs-js")){s.src='https://ctrljs-1.narwhalkid.repl.co/bookmarklet.js',document.body.appendChild(s);}else{document.getElementById("statusView").style.display = document.getElementById("statusView").style.display == "none" ? "" : "none"}};void(0);
+    - click to get a QR code to scan with your phone, click again to toggle the QR code on screen (will not work correctly on some sites or parts of sites)
+  - firefox only libreddit changer
+    - javascript:document.location = (document.location + '').replace('www.reddit.com', 'reddit.invak.id')
+    - click the bookmarklet when you go to a reddit.com page and it doesnt work (feel free to change the libreddit instance url (reddit.invak.id to something else)
