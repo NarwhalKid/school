@@ -3,9 +3,9 @@
 ## sections
  - [software lists](https://github.com/NarwhalKid/school/blob/main/README.md#software-lists)
  - [steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam)
-  - [steam info](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
-  - [getting steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
-  - [using steam after download](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
+   - [steam info](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
+   - [getting steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
+   - [using steam after download](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
  - 
 
 ## software lists
@@ -23,8 +23,8 @@
 
 ### getting steam
  - download the following:
-  - [steam installer](https://drive.google.com/file/d/15eJnb1JOC7o8fTEwX0Bp1fWlx2gU0uJ9/view?usp=share_link)
-  - [noadmin.bat](https://drive.google.com/file/d/1WAmmjmAF-gHeVggQKARxvg-lPbWAknOc/view?usp=share_link)
+   - [steam installer](https://drive.google.com/file/d/15eJnb1JOC7o8fTEwX0Bp1fWlx2gU0uJ9/view?usp=share_link)
+   - [noadmin.bat](https://drive.google.com/file/d/1WAmmjmAF-gHeVggQKARxvg-lPbWAknOc/view?usp=share_link)
  - find somewhere in the school where you have data (a vpn on school wifi won't work unfortunately) and start a hotspot on your phone and connect to it on your computer (or just do this at home)
  - open wherever you downloaded those files and drag the SteamSetup.exe file onto the noadmin.bat file
  - when it asks for the destination folder, make it "C:\Makeup Work\" or something
@@ -35,11 +35,11 @@
  - to download games make sure youre connected to a hotspot on data (or again, at home)
  - you can now delete the steam installer and you can delete or move the noadmin bat (the noadmin bat does not work for everything, just some software that asks for admin that doesnt completely need it)
  - i highly recommend the following
-  - Steam tab at top
-  - Settings
-  - Interface
-  - Run Steam when my computer starts > off
-  - Notify me about additions or changes to my games, new releases, and upcoming releases > off
+   - Steam tab at top
+   - Settings
+   - Interface
+   - Run Steam when my computer starts > off
+   - Notify me about additions or changes to my games, new releases, and upcoming releases > off
 
 ### using steam after download
  - open file explorer
