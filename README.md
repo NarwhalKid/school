@@ -9,6 +9,7 @@
    - [using steam after download](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
  - [websites](https://github.com/NarwhalKid/school/blob/main/README.md#websites)
  - [bookmarklets](https://github.com/NarwhalKid/school/blob/main/README.md#bookmarklets)
+ - [undoing everything](https://github.com/NarwhalKid/school/blob/main/README.md#undoing-everything)
 
 ## software lists
 - [bradnails](https://github.com/Project-Bradnails/Bradnails/tree/main)
@@ -83,3 +84,10 @@
    - be ready to alt+tab away if you have to
    - if youre using steam, turn on the settings i mentioned at the end
    - basically just dont be stupid
+
+## undoing everything
+ - uninstalling programs
+   - search "Add or remove programs" in the taskbar search bar and open it.
+   - from there uninstall any programs you may have had like firefox or discord
+ - removing files
+   - simply open wherever you saved your files/games in file explorer and delete the individual files or the whole folder.
