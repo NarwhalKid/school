@@ -14,7 +14,7 @@
 ## software lists
 - [bradnails](https://github.com/Project-Bradnails/Bradnails/tree/main)
 - [not games](https://drive.google.com/drive/folders/1Fa0E3128_Fq0UTCtHmctLFYdK7BNsH0O)
- - beware of potential viruses (check with [virustotal](https://www.virustotal.com/gui/home/upload)
+ - beware of potential viruses (check with [virustotal](https://www.virustotal.com/gui/home/upload))
 - [not not games](https://drive.google.com/drive/folders/1nlkkL7v-DCVnzwbaOVpBm_wvDE1bWpdE)
  - a lot of stuff doesn't work as intended
 
