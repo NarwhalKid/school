@@ -67,6 +67,7 @@
   - [invidious (youtube)](https://api.invidious.io/)
   - [wikipedia speedruns](https://wikispeedruns.com/)
   - [tinf0il](https://gfcbnfhxrgn.tinf0il.tech/proxy.html)
+  - [astroid](https://astroid.jib.ar/worksheets/index.html)
 
  ## bookmarklets
   - press ctrl+shift+b if your bookmarks bar is not currently visible
