@@ -7,6 +7,7 @@
    - [steam info](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [getting steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [using steam after download](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
+ - [getting fortnite](https://github.com/NarwhalKid/school/blob/main/README.md#getting-fortnite)
  - [websites](https://github.com/NarwhalKid/school/blob/main/README.md#websites)
  - [bookmarklets](https://github.com/NarwhalKid/school/blob/main/README.md#bookmarklets)
  - [undoing everything](https://github.com/NarwhalKid/school/blob/main/README.md#undoing-everything)
@@ -52,6 +53,33 @@
  - go through the same steam error steps as before
  - wait for it to open (again, be patient, it could take a while
  - note that even after closing out of the steam window it will likely stay open (click the carrot icon towards the right of your windows taskbar to see steam and open the window if it's already been opened)
+
+## getting fortnite
+ - [download brave browser](https://drive.google.com/file/d/1y103_VbBivKIRq6lEZrKgHeDIz9A05-g/view?usp=drive_link)
+ - [download free xcloud keyboard extension](https://drive.google.com/file/d/1TlhGkdojQ7bZ4bI2IOoJaB-YMAVaRDzV/view?usp=drive_link)
+ - [download psiphon](https://drive.google.com/file/d/1qD3i1ypO5HzA5sLtBDEp6zYMoqKaLvSL/view?usp=drive_link)
+ - open your brave extensions [(brave://extensions/)](brave://extensions/)
+ - activate developer mode on the top right
+ - extract the xcloud keyboard extension zip
+ - click `load unpacked` on the top left of the brave extensions page
+ - select the xcloud keyboard extension folder
+ - enable psiphon (set the servers to united states for the best results)
+ - [open fortnite on xcloud](https://www.xbox.com/en-US/play/games/fortnite/BT5P2X999VH2)
+ - sign in
+ - start fortnite (ignore no controller message)
+ - click the extensions icon on the top right of your browser (puzzle piece)
+ - pin the extension
+ - click the extension icon that you just pinned
+ - click `edit`
+ - add a random binding (i normally add equals to the A button)
+ - select save
+ - click anywhere on the page
+ - you can now use your keyboard to control the page
+ - click enter in the lobby
+ - go to the settings tab
+ - go to the controller settings tab
+ - set your joystick deadzone to 5% on both
+ - youre good to go! if the extension ever stops working just toggle the random binding in the extension settings
 
 ## websites
  - note: some of these may require [firefox](https://drive.google.com/file/d/1OyuoQn3aPxvrOcomx2o5sIKXriLcAa72/view?usp=share_link) or to use chrome, click the profile icon, and click guest
