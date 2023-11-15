@@ -1,6 +1,6 @@
 <!-- ayo why you readin the md file -->
 # heres a huge ass list of things to do at school
-## if youre just here for NarwhalKidGames go to the [websites section](https://github.com/NarwhalKid/school/blob/main/README.md#websites)
+## if youre just here for narwhalkidgames go to the [websites section](https://github.com/NarwhalKid/school/blob/main/README.md#websites)
 
 ## sections
  - [software lists](https://github.com/NarwhalKid/school/blob/main/README.md#software-lists)
