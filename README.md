@@ -7,6 +7,7 @@
    - [steam info](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [getting steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [using steam after download](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
+ - [getting minecraft](https://github.com/NarwhalKid/school/blob/main/README.md#getting-minecraft)
  - [playing fortnite](https://github.com/NarwhalKid/school/blob/main/README.md#playing-fortnite)
  - [websites](https://github.com/NarwhalKid/school/blob/main/README.md#websites)
  - [bookmarklets](https://github.com/NarwhalKid/school/blob/main/README.md#bookmarklets)
@@ -54,6 +55,20 @@
  - wait for it to open (again, be patient, it could take a while
  - note that even after closing out of the steam window it will likely stay open (click the carrot icon towards the right of your windows taskbar to see steam and open the window if it's already been opened)
 
+## getting minecraft
+ - NOTE: YOU WILL NEED TO DO THIS AT HOME
+ - NOTE: YOU WILL NEED TO HAVE A MINECRAFT ACCOUNT
+ - make sure youre at home and not on school wifi (trust me its important)
+ - [download the portable minecraft bat](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
+ - open the minecraft.bat file
+ - move the downloaded folder into wherever you want to keep it before you do the next steps (if you have a games folder on your computer move it there)
+ - open the folder
+ - open the minecraft folder
+ - open "Minecraft.exe"
+ - download the current minecraft version
+ - everything should now work! if you move the folder things will reset.
+ - just go back and open Minecraft.exe to play in the future. you do not need an active internet connection to play offline.
+
 ## playing fortnite
  - [download brave browser](https://drive.google.com/file/d/1y103_VbBivKIRq6lEZrKgHeDIz9A05-g/view?usp=drive_link)
  - [download free xcloud keyboard extension](https://drive.google.com/file/d/1TlhGkdojQ7bZ4bI2IOoJaB-YMAVaRDzV/view?usp=drive_link)
@@ -61,7 +76,7 @@
  - open your brave extensions [(brave://extensions/)](brave://extensions/)
  - activate developer mode on the top right
  - extract the xcloud keyboard extension zip
- - click `load unpacked` on the top left of the brave extensions page
+ - click "load unpacked" on the top left of the brave extensions page
  - select the xcloud keyboard extension folder
  - enable psiphon (set the servers to united states for the best results)
  - [open fortnite on xcloud](https://www.xbox.com/en-US/play/games/fortnite/BT5P2X999VH2)
@@ -70,7 +85,7 @@
  - click the extensions icon on the top right of your browser (puzzle piece)
  - pin the extension
  - click the extension icon that you just pinned
- - click `edit`
+ - click "edit"
  - add a random binding (i normally add equals to the A button)
  - select save
  - click anywhere on the page
