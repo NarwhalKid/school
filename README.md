@@ -7,7 +7,7 @@
    - [steam info](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [getting steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [using steam after download](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
- - [getting fortnite](https://github.com/NarwhalKid/school/blob/main/README.md#getting-fortnite)
+ - [playing fortnite](https://github.com/NarwhalKid/school/blob/main/README.md#playing-fortnite)
  - [websites](https://github.com/NarwhalKid/school/blob/main/README.md#websites)
  - [bookmarklets](https://github.com/NarwhalKid/school/blob/main/README.md#bookmarklets)
  - [undoing everything](https://github.com/NarwhalKid/school/blob/main/README.md#undoing-everything)
@@ -54,7 +54,7 @@
  - wait for it to open (again, be patient, it could take a while
  - note that even after closing out of the steam window it will likely stay open (click the carrot icon towards the right of your windows taskbar to see steam and open the window if it's already been opened)
 
-## getting fortnite
+## playing fortnite
  - [download brave browser](https://drive.google.com/file/d/1y103_VbBivKIRq6lEZrKgHeDIz9A05-g/view?usp=drive_link)
  - [download free xcloud keyboard extension](https://drive.google.com/file/d/1TlhGkdojQ7bZ4bI2IOoJaB-YMAVaRDzV/view?usp=drive_link)
  - [download psiphon](https://drive.google.com/file/d/1qD3i1ypO5HzA5sLtBDEp6zYMoqKaLvSL/view?usp=drive_link)
