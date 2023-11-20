@@ -15,7 +15,7 @@
  - [undoing everything](https://github.com/NarwhalKid/school/blob/main/README.md#undoing-everything)
 
 ## software lists
-- [bradnails]([https://github.com/Project-Bradnails/Bradnails/tree/main](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/software-list.md))
+- [bradnails](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/software-list.md)
 - [not games](https://drive.google.com/drive/folders/1Fa0E3128_Fq0UTCtHmctLFYdK7BNsH0O)
  - beware of potential viruses (check with [virustotal](https://www.virustotal.com/gui/home/upload))
 - [not not games](https://drive.google.com/drive/folders/1nlkkL7v-DCVnzwbaOVpBm_wvDE1bWpdE)
