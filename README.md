@@ -19,6 +19,7 @@
 - [not games](https://drive.google.com/drive/folders/1Fa0E3128_Fq0UTCtHmctLFYdK7BNsH0O)
  - beware of potential viruses (check with [virustotal](https://www.virustotal.com/gui/home/upload))
 - [not not games](https://drive.google.com/drive/folders/1nlkkL7v-DCVnzwbaOVpBm_wvDE1bWpdE)
+- [not not games 2](https://hcps365-my.sharepoint.com/:f:/g/personal/williamjellig_student_hcps_org/Ehu33J3zmJ1JiuVQwk7MnqsBMEnFRHYfLX91e8cf6JAClw?e=zu5Kzp)
 
 ## steam
 
