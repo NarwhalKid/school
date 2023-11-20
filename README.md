@@ -73,7 +73,7 @@
 ## playing fortnite
  - [download brave browser](https://drive.google.com/file/d/1y103_VbBivKIRq6lEZrKgHeDIz9A05-g/view?usp=drive_link)
  - [download free xcloud keyboard extension](https://drive.google.com/file/d/1TlhGkdojQ7bZ4bI2IOoJaB-YMAVaRDzV/view?usp=drive_link)
- - [download psiphon](https://drive.google.com/file/d/1qD3i1ypO5HzA5sLtBDEp6zYMoqKaLvSL/view?usp=drive_link)
+ - [download psiphon](https://drive.google.com/file/d/1XGdbzMZSxxO9t3qiNkBbedwiPcLjTREU/view?usp=drive_link)
  - open your brave extensions [(brave://extensions/)](brave://extensions/)
  - activate developer mode on the top right
  - extract the xcloud keyboard extension zip
