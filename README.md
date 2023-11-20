@@ -29,7 +29,7 @@
 
 ### getting steam
  - download the following:
-   - [steam installer](https://drive.google.com/file/d/15OQrRO0R2ghoq6Dw_EHeIaVLMR8g3a9B/view?usp=drive_link)
+   - [steam installer](https://drive.google.com/file/d/1KSBxzdQcd3LRzFaigYG-ANRrFuSc_cMx/view?usp=drive_link)
    - [noadmin.bat](https://drive.google.com/file/d/1WAmmjmAF-gHeVggQKARxvg-lPbWAknOc/view?usp=share_link)
  - find somewhere in the school where you have data (a vpn on school wifi won't work unfortunately) and start a hotspot on your phone and connect to it on your computer (or just do this at home)
  - open wherever you downloaded those files and drag the SteamSetup.exe file onto the noadmin.bat file
