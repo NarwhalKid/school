@@ -105,7 +105,7 @@
      - Advanced
      - scroll down
      - Accept the Risk and Continue (dw, its safe, i host it myself on AWS, i just didnt bother setting up a better ssl certificate so we're using a self signed one which makes the browser mad at us)
-  - [narwhalkidgames](https://narwhalkidgames5.narwhalkid.repl.co/)
+  - [narwhalkidgames](https://www.narwhalkid.com/games/)
   - [2048verse](https://2048verse.com/)
   - [libreddit (reddit)](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
     - unfortunately due to the api changes on reddit, there may be temporary issues with an instance and youll have to try another
