@@ -57,11 +57,11 @@
  - wait for it to open (again, be patient, it could take a while
  - note that even after closing out of the steam window it will likely stay open (click the carrot icon towards the right of your windows taskbar to see steam and open the window if it's already been opened)
 
-## getting minecraft
+## getting minecraft java edition
  - NOTE: YOU WILL NEED TO DO THIS AT HOME
  - NOTE: YOU WILL NEED TO HAVE A MINECRAFT ACCOUNT
  - make sure youre at home and not on school wifi (trust me its important)
- - [download the portable minecraft bat](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
+ - [download the portable minecraft bat](https://drive.google.com/file/d/1_o0Wik1qjkvSay1DHDionB2x40JUpqgA/view?usp=drive_link)
  - open the minecraft.bat file
  - move the downloaded folder into wherever you want to keep it before you do the next steps (if you have a games folder on your computer move it there)
  - open the folder
