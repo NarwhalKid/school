@@ -8,7 +8,7 @@
    - [steam info](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [getting steam](https://github.com/NarwhalKid/school/blob/main/README.md#steam-info)
    - [using steam after download](https://github.com/NarwhalKid/school/blob/main/README.md#using-steam-after-download)
- - [getting minecraft](https://github.com/NarwhalKid/school/blob/main/README.md#getting-minecraft)
+ - [getting minecraft](https://github.com/NarwhalKid/school/blob/main/README.md#getting-minecraft-java-edition)
  - [playing fortnite](https://github.com/NarwhalKid/school/blob/main/README.md#playing-fortnite)
  - [websites](https://github.com/NarwhalKid/school/blob/main/README.md#websites)
  - [bookmarklets](https://github.com/NarwhalKid/school/blob/main/README.md#bookmarklets)
