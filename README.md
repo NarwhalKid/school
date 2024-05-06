@@ -122,7 +122,7 @@
     - click to get a QR code to scan with your phone, click again to toggle the QR code on screen (will not work correctly on some sites or parts of sites)
   - firefox only libreddit changer
     - `javascript:document.location = (document.location + '').replace('www.reddit.com', 'reddit.invak.id')`
-    - click the bookmarklet when you go to a reddit.com page and it doesnt work (feel free to change the libreddit instance url (reddit.invak.id to something else)
+    - click the bookmarklet when you go to a reddit.com page and it doesnt work (feel free to change the libreddit instance url (reddit.invak.id) to something else)
    
   ## staying quiet
    - you could bring in a usb to keep the files on (or just a straight up bootable OS)
