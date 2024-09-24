@@ -111,8 +111,7 @@
     - unfortunately due to the api changes on reddit, there may be temporary issues with an instance and youll have to try another
   - [invidious (youtube)](https://api.invidious.io/)
   - [wikipedia speedruns](https://wikispeedruns.com/)
-  - [tinf0il](https://gfcbnfhxrgn.tinf0il.tech/proxy.html)
-  - [astroid](https://astroid.jib.ar/worksheets/index.html)
+  - [tinf0il](https://f0il.narwhalkid.com/proxy.html)
 
  ## bookmarklets
   - press ctrl+shift+b if your bookmarks bar is not currently visible
