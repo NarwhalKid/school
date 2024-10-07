@@ -100,11 +100,6 @@
 
 ## websites
  - note: some of these may require [firefox](https://drive.google.com/file/d/1OyuoQn3aPxvrOcomx2o5sIKXriLcAa72/view?usp=share_link) or to use chrome, click the profile icon, and click guest
- - [ultraviolet](https://54.167.87.46/)
-   - as of writing this, you have to use firefox and do the following to use the page:
-     - Advanced
-     - scroll down
-     - Accept the Risk and Continue (dw, its safe, i host it myself on AWS, i just didnt bother setting up a better ssl certificate so we're using a self signed one which makes the browser mad at us)
   - [narwhalkidgames](https://www.narwhalkid.com/games/)
   - [2048verse](https://2048verse.com/)
   - [libreddit (reddit)](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
