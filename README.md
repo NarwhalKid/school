@@ -102,6 +102,7 @@
 ## websites
  - note: some of these may require [firefox](https://drive.google.com/file/d/1OyuoQn3aPxvrOcomx2o5sIKXriLcAa72/view?usp=share_link) or to use chrome, click the profile icon, and click guest
   - [narwhalkidgames](https://www.narwhalkid.com/games/)
+    - blocked? go [here](https://github.com/NarwhalKidGames/NarwhalKidGames/blob/main/README.md)
   - [2048verse](https://2048verse.com/)
   - [libreddit (reddit)](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
     - unfortunately due to the api changes on reddit, there may be temporary issues with an instance and youll have to try another
