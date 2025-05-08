@@ -112,7 +112,8 @@
   - [invidious (youtube)](https://api.invidious.io/)
   - [wikipedia speedruns](https://wikispeedruns.com/)
   - [tinf0il](https://f0il.narwhalkid.com/proxy.html)
-  - [movie streaming list](https://safereddit.com/r/Piracy/wiki/megathread/movies_and_tv#wiki_.1F4D1_.279C_streaming)
+  - [movie streaming list (READ BELOW FIRST!)](https://safereddit.com/r/Piracy/wiki/megathread/movies_and_tv#wiki_.1F4D1_.279C_streaming)
+    - IMPORTANT: MAKE SURE YOU HAVE [FIREFOX](https://drive.google.com/file/d/1OyuoQn3aPxvrOcomx2o5sIKXriLcAa72/view?usp=drive_link) WITH [UBLOCK ORIGIN](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)!!! (you dont want a virus do you?)
 
  ## bookmarklets
   - press ctrl+shift+b if your bookmarks bar is not currently visible
