@@ -112,6 +112,7 @@
   - [invidious (youtube)](https://api.invidious.io/)
   - [wikipedia speedruns](https://wikispeedruns.com/)
   - [tinf0il](https://f0il.narwhalkid.com/proxy.html)
+  - [movie streaming list](https://safereddit.com/r/Piracy/wiki/megathread/movies_and_tv#wiki_.1F4D1_.279C_streaming)
 
  ## bookmarklets
   - press ctrl+shift+b if your bookmarks bar is not currently visible
