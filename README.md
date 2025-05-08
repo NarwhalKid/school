@@ -23,6 +23,7 @@
 - [not not games](https://drive.google.com/drive/folders/1nlkkL7v-DCVnzwbaOVpBm_wvDE1bWpdE)
 - [not not games 2](https://hcps365-my.sharepoint.com/:f:/g/personal/williamjellig_student_hcps_org/Ehu33J3zmJ1JiuVQwk7MnqsBMEnFRHYfLX91e8cf6JAClw?e=JJzHM6)
 - [not not games requests](https://forms.gle/Z8SCbiMjvpAELMJ16)
+- [everything portable](https://github.com/MarioMasta64/EverythingPortable)
 
 ## steam
 
